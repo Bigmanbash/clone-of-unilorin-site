@@ -1,0 +1,18 @@
+
+body        {background-color: #edf5e1;}
+
+.navbar     {background-color: #182628;}
+
+#logo       {text-align: center;}
+
+a           {color: red;}
+
+h1          {padding-top: 30px; padding-bottom: 10px;}
+
+img         {padding-top: 10px; padding-bottom: 10px;}
+
+.col-4      {padding-top: 15px; color: #fff; background-color: #182628; text-align: center;} 
+
+.col-8      {padding-top: 15px; text-align: center;}
+
+
